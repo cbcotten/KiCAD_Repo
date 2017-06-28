@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RES-1006-001_0.100Ohm
+D 0.1 Ohm Current Sense Shunt Resistor
+K shunt
+$ENDCMP
+#
+#End Doc Library

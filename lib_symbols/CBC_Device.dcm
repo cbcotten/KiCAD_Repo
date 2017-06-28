@@ -1,0 +1,102 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Fuse
+D Fuse, generic
+K Fuse
+$ENDCMP
+#
+$CMP Fuse_Blade_LPMini_58V_02A
+D Fuse, Blade, Low Profile, 58V, 2A
+K Fuse
+$ENDCMP
+#
+$CMP Fuse_Blade_LPMini_58V_05A
+D Fuse, Blade, Low Profile, 58V, 5A
+K Fuse
+$ENDCMP
+#
+$CMP Fuse_Blade_LPMini_58V_07.5A
+D Fuse, Blade, Low Profile, 58V, 7.5A
+K Fuse
+$ENDCMP
+#
+$CMP Fuse_Blade_LPMini_58V_10A
+D Fuse, Blade, Low Profile, 58V, 10A
+K Fuse
+$ENDCMP
+#
+$CMP Fuse_Blade_LPMini_58V_15A
+D Fuse, Blade, Low Profile, 58V, 15A
+K Fuse
+$ENDCMP
+#
+$CMP Fuse_Blade_LPMini_58V_20A
+D Fuse, Blade, Low Profile, 58V, 20A
+K Fuse
+$ENDCMP
+#
+$CMP Fuse_Blade_LPMini_58V_25A
+D Fuse, Blade, Low Profile, 58V, 25A
+K Fuse
+$ENDCMP
+#
+$CMP Fuse_Blade_LPMini_58V_30A
+D Fuse, Blade, Low Profile, 58V, 30A
+K Fuse
+$ENDCMP
+#
+$CMP Fuse_Blade_Mini_58V_02A
+D Fuse, Blade, Mini, 58V, 2A
+K Fuse
+$ENDCMP
+#
+$CMP Fuse_Blade_Mini_58V_03A
+D Fuse, Blade, Mini, 58V, 3A
+K Fuse
+$ENDCMP
+#
+$CMP Fuse_Blade_Mini_58V_04A
+D Fuse, Blade, Mini, 58V, 4A
+K Fuse
+$ENDCMP
+#
+$CMP Fuse_Blade_Mini_58V_05A
+D Fuse, Blade, Mini, 58V, 5A
+K Fuse
+$ENDCMP
+#
+$CMP Fuse_Blade_Mini_58V_07.5A
+D Fuse, Blade, Mini, 58V, 7.5A
+K Fuse
+$ENDCMP
+#
+$CMP Fuse_Blade_Mini_58V_10A
+D Fuse, Blade, Mini, 58V, 10A
+K Fuse
+$ENDCMP
+#
+$CMP Fuse_Blade_Mini_58V_15A
+D Fuse, Blade, Mini, 58V, 15A
+K Fuse
+$ENDCMP
+#
+$CMP Fuse_Blade_Mini_58V_20A
+D Fuse, Blade, Mini, 58V, 20A
+K Fuse
+$ENDCMP
+#
+$CMP Fuse_Blade_Mini_58V_25A
+D Fuse, Blade, Mini, 58V, 25A
+K Fuse
+$ENDCMP
+#
+$CMP Fuse_Blade_Mini_58V_30A
+D Fuse, Blade, Mini, 58V, 30A
+K Fuse
+$ENDCMP
+#
+$CMP MOSFET_STP40NF10L
+D Power MOSFET, Logic Gate, 100V, 40A, 36mOhm
+$ENDCMP
+#
+#End Doc Library

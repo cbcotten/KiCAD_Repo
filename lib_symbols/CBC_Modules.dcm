@@ -1,0 +1,73 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Adafruit_ADS1115
+D 16 bit ADC, 4 channel, ADS1115
+K ADC, Adafruit, ADS1115, 1085
+$ENDCMP
+#
+$CMP Adafruit_ADS1115_Layout
+D 16 bit ADC, 4 channel, ADS1115, Layout
+K ADC, Adafruit, ADS1115, 1085
+$ENDCMP
+#
+$CMP Adafruit_INA169
+D INA169 Current Sensor Breakout Board
+K INA169, Current Sensor
+$ENDCMP
+#
+$CMP Adafruit_INA169_0291
+D INA169 Current Sensor Breakout, Cu Pads for Mill-Max 0291 Recpt.
+K INA169, Current Sensor
+$ENDCMP
+#
+$CMP Adafruit_INA169_Layout
+D INA169 Current Sensor Breakout Board, Layout, No Pins
+K INA169, Current Sensor
+$ENDCMP
+#
+$CMP Adafruit_MAX31865
+D Sensor, Temperature, 4Wire RTD, MAX31865 Breakout
+K RTD, MAX31865, Temperature, MAX31865
+$ENDCMP
+#
+$CMP Adafruit_MAX31865_0291
+D Adafruit MAX31865 Breakout socket Mounting with MillMax0291
+K RTD, MAX31865, Temperature, MAX31865
+$ENDCMP
+#
+$CMP Adafruit_MAX31865_Layout
+D Sensor, Temperature, 4Wire RTD, MAX31865 Breakout, Layout
+K RTD, MAX31865, Temperature, MAX31865
+$ENDCMP
+#
+$CMP Adafruit_PCA9685_Layout
+D PWM Driver, 16 channel, PCA9685 Breakout, Layout
+K PWM, PCA9685, Layout
+$ENDCMP
+#
+$CMP Arduino_Crumbuino2560_chip45
+D Crumbuino 2560 chip45
+K Arduino, Crumbuino, Mega, 2560, chip45
+$ENDCMP
+#
+$CMP Arduino_Mega2560_ProMini_Meduino_NoICSP
+D Arduino Mega 2560 Pro Mini
+K Ardunio, Mega, 2560, Pro Mini
+$ENDCMP
+#
+$CMP Arduino_ProMini328_5V_16MHz_SF
+D Arduino Pro Mini 328, 5V, 16MHz, Sparkfun
+K Arduino, ProMini, Pro Mini, 328, Sparkfun
+$ENDCMP
+#
+$CMP WIZ850io
+D Wiznet W5500 Ethernet to SPI Interface Module
+K wiznet, w5500, spi, rj45, interface, ethernet
+$ENDCMP
+#
+$CMP WIZ850io_EbayClone
+D Ebay version of WIZnet850io
+K wiznet, w5500, spi, rj45, interface, ethernet
+$ENDCMP
+#
+#End Doc Library

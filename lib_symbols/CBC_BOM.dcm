@@ -1,0 +1,103 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HDRPIN-0.1"-1row_0.23Head-0.12Tail-Gold-04pos
+D Pin Strip, 4 positions, 0.1" pitch, 1 row,  0.230" head, 0.120 tail
+K Sullins, header, pin, breakaway
+$ENDCMP
+#
+$CMP HDRPIN-0.1"-1row_0.23Head-0.12Tail-Gold-06pos
+D Pin Strip, 6 positions, 0.1" pitch, 1 row,  0.230" head, 0.120 tail
+K Sullins, header, pin, breakaway
+$ENDCMP
+#
+$CMP HDRPIN-0.1"-1row_0.23Head-0.12Tail-Gold-08pos
+D Pin Strip, 8 positions, 0.1" pitch, 1 row,  0.230" head, 0.120 tail
+K Sullins, header, pin, breakaway
+$ENDCMP
+#
+$CMP HDRPIN-0.1"-1row_0.23Head-0.12Tail-Gold-10pos
+D Pin Strip, 10 positions, 0.1" pitch, 1 row,  0.230" head, 0.120 tail
+K Sullins, header, pin, breakaway
+$ENDCMP
+#
+$CMP HDRPIN-0.1"-1row_0.23Head-0.12Tail-Gold-20pos
+D Pin Strip, 20 positions, 0.1" pitch, 1 row,  0.230" head, 0.120 tail
+K Sullins, header, pin, breakaway
+$ENDCMP
+#
+$CMP HDRPIN-0.1"-1row_0.23Head-0.12Tail-Gold-30pos
+D Pin Strip, 30 positions, 0.1" pitch, 1 row,  0.230" head, 0.120 tail
+K Sullins, header, pin, breakaway
+$ENDCMP
+#
+$CMP HDRPIN-0.1"-1row_0.23Head-0.12Tail-Gold-40pos
+D Pin Strip, 40 positions, 0.1" pitch, 1 row,  0.230" head, 0.120 tail
+K Sullins, header, pin, breakaway
+$ENDCMP
+#
+$CMP HDRPIN-0.1"-1row_0.23Head-0.32Tail-Gold-04pos
+D Pin Strip, 4 positions, 0.1" pitch, 1 row,  0.230" head, 0.320 tail
+K Sullins, header, pin, breakaway
+$ENDCMP
+#
+$CMP HDRPIN-0.1"-1row_0.23Head-0.32Tail-Gold-08pos
+D Pin Strip, 8 positions, 0.1" pitch, 1 row,  0.230" head, 0.320 tail
+K Sullins, header, pin, breakaway
+$ENDCMP
+#
+$CMP HDRPIN-0.1"-1row_0.23Head-0.32Tail-Gold-10pos
+D Pin Strip, 10 positions, 0.1" pitch, 1 row,  0.230" head, 0.320 tail
+K Sullins, header, pin, breakaway
+$ENDCMP
+#
+$CMP HDRSKT-0.1"P-0.335"B-0.126"T-Gold_1x04
+D Header Female, 0.1"pitch, 0.335"body, 0.126"tail, 1x04
+K Sullins, female header, socket
+$ENDCMP
+#
+$CMP HDRSKT-0.1"P-0.335"B-0.126"T-Gold_1x05
+D Header Female, 0.1"pitch, 0.335"body, 0.126"tail, 1x05
+K Sullins, female header, socket
+$ENDCMP
+#
+$CMP HDRSKT-0.1"P-0.335"B-0.126"T-Gold_1x06
+D Header Female, 0.1"pitch, 0.335"body, 0.126"tail, 1x06
+K Sullins, female header, socket
+$ENDCMP
+#
+$CMP HDRSKT-0.1"P-0.335"B-0.126"T-Gold_1x07
+D Header Female, 0.1"pitch, 0.335"body, 0.126"tail, 1x07
+K Sullins, female header, socket
+$ENDCMP
+#
+$CMP HDRSKT-0.1"P-0.335"B-0.126"T-Gold_1x08
+D Header Female, 0.1"pitch, 0.335"body, 0.126"tail, 1x08
+K Sullins, female header, socket
+$ENDCMP
+#
+$CMP HDRSKT-0.1"P-0.335"B-0.126"T-Gold_1x09
+D Header Female, 0.1"pitch, 0.335"body, 0.126"tail, 1x09
+K Sullins, female header, socket
+$ENDCMP
+#
+$CMP HDRSKT-0.1"P-0.335"B-0.126"T-Gold_1x10
+D Header Female, 0.1"pitch, 0.335"body, 0.126"tail, 1x10
+K Sullins, female header, socket
+$ENDCMP
+#
+$CMP HDRSKT-0.1"P-0.335"B-0.126"T-Gold_1x18
+D Header Female, 0.1"pitch, 0.335"body, 0.126"tail, 1x18
+K Sullins, female header, socket
+$ENDCMP
+#
+$CMP HDRSKT-0.1"P-0.335"B-0.126"T-Gold_1x20
+D Header Female, 0.1"pitch, 0.335"body, 0.126"tail, 1x20
+K Sullins, female header, socket
+$ENDCMP
+#
+$CMP RCPT-MillMax-0291-0-15-15-16-27-10-0
+D Receptacle, Hex Press-fit in 0.067 plated through-hole
+K Mill-Max, receptacle, press-fit, 0291
+$ENDCMP
+#
+#End Doc Library

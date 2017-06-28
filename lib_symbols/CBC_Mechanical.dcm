@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HeatSink_WA-T220-101E
+D Heatsink, TO-220 Package, Ohmite, W Series, Annodized Aluminum
+K heatsink
+$ENDCMP
+#
+$CMP HeatSink_WV-T220-101E
+D Heatsink, TO-220 Package, Ohmite, W Series, Degreased Aluminum
+K heatsink
+$ENDCMP
+#
+#End Doc Library

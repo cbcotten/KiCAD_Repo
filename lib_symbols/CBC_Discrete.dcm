@@ -1,0 +1,20 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP D_TVS
+D Bidirectional transient-voltage-suppression (TVS) diode
+K diode TVS thyrector
+F https://en.wikipedia.org/wiki/Transient-voltage-suppression_diode
+$ENDCMP
+#
+$CMP D_TVS_CDSOT23-SM712
+D Bidirectional transient-voltage-suppression (TVS) diode
+K diode TVS thyrector
+F http://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf
+$ENDCMP
+#
+$CMP STP40NF10L
+D Power MOSFET, N-channel, 100V, 40A, 0.036Ohm, Logic Level Gate
+K nmos n-mos n-mosfet transistor
+$ENDCMP
+#
+#End Doc Library

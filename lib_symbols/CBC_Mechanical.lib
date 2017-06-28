@@ -1,0 +1,132 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# Bud_Industries_DMB-4769
+#
+DEF Bud_Industries_DMB-4769 ENCLOSURE 0 40 Y Y 1 F N
+F0 "ENCLOSURE" 100 250 60 H V L CNN
+F1 "Bud_Industries_DMB-4769" 100 100 60 H V L CNN
+F2 "CBC_Mechanical:Enclosure-DMB-4769" 50 750 50 H I L CNN
+F3 "http://www.budind.com/pdf/hbdmb4769.pdf" 50 650 50 H I L CNN
+F4 "Bud Industries" 50 550 50 H I L CNN "MFG"
+F5 "DMB-4769" 50 450 50 H I L CNN "MPN"
+F6 "ENC-1000-0" 800 250 60 H V L CNN "HPN"
+DRAW
+S 50 0 1500 350 0 1 0 N
+ENDDRAW
+ENDDEF
+#
+# Bud_Industries_DMB-4770
+#
+DEF Bud_Industries_DMB-4770 ENCLOSURE 0 40 Y Y 1 F N
+F0 "ENCLOSURE" 100 250 60 H V L CNN
+F1 "Bud_Industries_DMB-4770" 100 100 60 H V L CNN
+F2 "CBC_Mechanical:Enclosure-DMB-4770" 50 750 50 H I L CNN
+F3 "http://www.budind.com/pdf/hb4770.pdf" 50 650 50 H I L CNN
+F4 "Bud Industries" 50 550 50 H I L CNN "MFG"
+F5 "DMB-4770" 50 450 50 H I L CNN "MPN"
+F6 "ENC-1001-0" 800 250 60 H V L CNN "HPN"
+DRAW
+S 50 0 1500 350 0 1 0 N
+ENDDRAW
+ENDDEF
+#
+# Bud_Industries_DMB-4771
+#
+DEF Bud_Industries_DMB-4771 ENCLOSURE 0 40 Y Y 1 F N
+F0 "ENCLOSURE" 100 250 60 H V L CNN
+F1 "Bud_Industries_DMB-4771" 100 100 60 H V L CNN
+F2 "CBC_Mechanical:Enclosure-DMB-4771" 50 750 50 H I L CNN
+F3 "http://www.budind.com/pdf/hb4771.pdf" 50 650 50 H I L CNN
+F4 "Bud Industries" 50 550 50 H I L CNN "MFG"
+F5 "DMB-4771" 50 450 50 H I L CNN "MPN"
+F6 "ENC-1002-0" 800 250 60 H V L CNN "HPN"
+DRAW
+S 50 0 1500 350 0 1 0 N
+ENDDRAW
+ENDDEF
+#
+# Bud_Industries_DMB-4772
+#
+DEF Bud_Industries_DMB-4772 ENCLOSURE 0 40 Y Y 1 F N
+F0 "ENCLOSURE" 100 250 60 H V L CNN
+F1 "Bud_Industries_DMB-4772" 100 100 60 H V L CNN
+F2 "CBC_Mechanical:Enclosure-DMB-4772" 50 750 50 H I L CNN
+F3 "http://www.budind.com/pdf/hb4772.pdf" 50 650 50 H I L CNN
+F4 "Bud Industries" 50 550 50 H I L CNN "MFG"
+F5 "DMB-4772" 50 450 50 H I L CNN "MPN"
+F6 "ENC-1003-0" 800 250 60 H V L CNN "HPN"
+DRAW
+S 50 0 1500 350 0 1 0 N
+ENDDRAW
+ENDDEF
+#
+# Bud_Industries_DMB-4773
+#
+DEF Bud_Industries_DMB-4773 ENCLOSURE 0 40 Y Y 1 F N
+F0 "ENCLOSURE" 100 250 60 H V L CNN
+F1 "Bud_Industries_DMB-4773" 100 100 60 H V L CNN
+F2 "CBC_Mechanical:Enclosure-DMB-4773" 50 750 50 H I L CNN
+F3 "http://www.budind.com/pdf/hb4773.pdf" 50 650 50 H I L CNN
+F4 "Bud Industries" 50 550 50 H I L CNN "MFG"
+F5 "DMB-4773" 50 450 50 H I L CNN "MPN"
+F6 "ENC-1004-0" 800 250 60 H V L CNN "HPN"
+DRAW
+S 50 0 1500 350 0 1 0 N
+ENDDRAW
+ENDDEF
+#
+# Bud_Industries_DMB-4774
+#
+DEF Bud_Industries_DMB-4774 ENCLOSURE 0 40 Y Y 1 F N
+F0 "ENCLOSURE" 100 250 60 H V L CNN
+F1 "Bud_Industries_DMB-4774" 100 100 60 H V L CNN
+F2 "CBC_Mechanical:Enclosure-DMB-4774" 50 750 50 H I L CNN
+F3 "http://www.budind.com/pdf/hb4774.pdf" 50 650 50 H I L CNN
+F4 "Bud Industries" 50 550 50 H I L CNN "MFG"
+F5 "DMB-4774" 50 450 50 H I L CNN "MPN"
+F6 "ENC-1005-0" 800 250 60 H V L CNN "HPN"
+DRAW
+S 50 0 1500 350 0 1 0 N
+ENDDRAW
+ENDDEF
+#
+# HeatSink_WA-T220-101E
+#
+DEF HeatSink_WA-T220-101E HS 0 40 Y Y 1 F N
+F0 "HS" 200 250 60 H V L CNN
+F1 "HeatSink_WA-T220-101E" 200 150 60 H V L CNN
+F2 "CBC_Heatsinks:WA-T220-101E" 50 750 50 H I L CNN
+F3 "http://www.ohmite.com/cat/sink_w.pdf" 50 650 50 H I L CNN
+F4 "HS-1000-0" 300 -250 60 H V L CNN "HPN"
+F5 "Ohmite" 50 550 50 H I L CNN "MFG"
+F6 "WA-T220-101E" 50 450 50 H I L CNN "MPN"
+DRAW
+T 0 400 0 60 0 0 0 HEATSINK Normal 0 L C
+T 0 400 -100 60 0 0 0 TO-220 Normal 0 L C
+S 200 100 900 -350 1 1 12 N
+X 1 1 0 0 200 R 50 50 1 1 P
+X 2 2 0 -100 200 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# HeatSink_WV-T220-101E
+#
+DEF HeatSink_WV-T220-101E HS 0 40 Y Y 1 F N
+F0 "HS" 200 250 60 H V L CNN
+F1 "HeatSink_WV-T220-101E" 200 150 60 H V L CNN
+F2 "CBC_Mechanical:Heatsink_Wx-T220-101E" 50 750 50 H I L CNN
+F3 "http://www.ohmite.com/cat/sink_w.pdf" 50 650 50 H I L CNN
+F4 "HS-1000-1" 300 -250 60 H V L CNN "HPN"
+F5 "Ohmite" 50 550 50 H I L CNN "MFG"
+F6 "WA-T220-101E" 50 450 50 H I L CNN "MPN"
+DRAW
+T 0 400 0 60 0 0 0 HEATSINK Normal 0 L C
+T 0 400 -100 60 0 0 0 TO-220 Normal 0 L C
+S 200 100 900 -350 1 1 12 N
+X 1 1 0 0 200 R 50 50 1 1 P
+X 2 2 0 -100 200 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

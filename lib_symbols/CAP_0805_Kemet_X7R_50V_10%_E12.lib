@@ -1,0 +1,1084 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# CAP-1005-01_10pF
+#
+DEF CAP-1005-01_10pF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-01_10pF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC100K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-01" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-02_12pF
+#
+DEF CAP-1005-02_12pF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-02_12pF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC120K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-02" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-03_15pF
+#
+DEF CAP-1005-03_15pF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-03_15pF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC150K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-03" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-04_18pF
+#
+DEF CAP-1005-04_18pF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-04_18pF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC180K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-04" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-05_22pF
+#
+DEF CAP-1005-05_22pF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-05_22pF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC220K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-05" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-06_27pF
+#
+DEF CAP-1005-06_27pF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-06_27pF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC270K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-06" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-07_33pF
+#
+DEF CAP-1005-07_33pF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-07_33pF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC330K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-07" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-08_39pF
+#
+DEF CAP-1005-08_39pF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-08_39pF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC390K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-08" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-09_47pF
+#
+DEF CAP-1005-09_47pF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-09_47pF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC470K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-09" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-10_56pF
+#
+DEF CAP-1005-10_56pF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-10_56pF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC560K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-10" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-11_68pF
+#
+DEF CAP-1005-11_68pF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-11_68pF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC680K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-11" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-12_82pF
+#
+DEF CAP-1005-12_82pF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-12_82pF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC820K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-12" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-13_100pF
+#
+DEF CAP-1005-13_100pF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-13_100pF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC101K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-13" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-14_120pF
+#
+DEF CAP-1005-14_120pF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-14_120pF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC121K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-14" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-15_150pF
+#
+DEF CAP-1005-15_150pF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-15_150pF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC151K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-15" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-16_180pF
+#
+DEF CAP-1005-16_180pF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-16_180pF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC181K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-16" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-17_220pF
+#
+DEF CAP-1005-17_220pF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-17_220pF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC221K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-17" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-18_270pF
+#
+DEF CAP-1005-18_270pF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-18_270pF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC271K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-18" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-19_330pF
+#
+DEF CAP-1005-19_330pF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-19_330pF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC331K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-19" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-20_390pF
+#
+DEF CAP-1005-20_390pF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-20_390pF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC391K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-20" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-21_470pF
+#
+DEF CAP-1005-21_470pF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-21_470pF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC471K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-21" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-22_560pF
+#
+DEF CAP-1005-22_560pF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-22_560pF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC561K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-22" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-23_680pF
+#
+DEF CAP-1005-23_680pF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-23_680pF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC681K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-23" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-24_820pF
+#
+DEF CAP-1005-24_820pF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-24_820pF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC821K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-24" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-25_1.0nF
+#
+DEF CAP-1005-25_1.0nF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-25_1.0nF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC102K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-25" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-26_1.2nF
+#
+DEF CAP-1005-26_1.2nF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-26_1.2nF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC122K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-26" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-27_1.5nF
+#
+DEF CAP-1005-27_1.5nF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-27_1.5nF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC152K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-27" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-28_1.8nF
+#
+DEF CAP-1005-28_1.8nF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-28_1.8nF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC182K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-28" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-29_2.2nF
+#
+DEF CAP-1005-29_2.2nF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-29_2.2nF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC222K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-29" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-30_2.7nF
+#
+DEF CAP-1005-30_2.7nF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-30_2.7nF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC272K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-30" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-31_3.3nF
+#
+DEF CAP-1005-31_3.3nF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-31_3.3nF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC332K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-31" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-32_3.9nF
+#
+DEF CAP-1005-32_3.9nF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-32_3.9nF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC392K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-32" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-33_4.7nF
+#
+DEF CAP-1005-33_4.7nF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-33_4.7nF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC472K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-33" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-34_5.6nF
+#
+DEF CAP-1005-34_5.6nF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-34_5.6nF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC562K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-34" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-35_6.8nF
+#
+DEF CAP-1005-35_6.8nF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-35_6.8nF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC682K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-35" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-36_8.2nF
+#
+DEF CAP-1005-36_8.2nF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-36_8.2nF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC822K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-36" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-37_10nF
+#
+DEF CAP-1005-37_10nF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-37_10nF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC103K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-37" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-38_12nF
+#
+DEF CAP-1005-38_12nF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-38_12nF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC123K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-38" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-39_15nF
+#
+DEF CAP-1005-39_15nF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-39_15nF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC153K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-39" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-40_18nF
+#
+DEF CAP-1005-40_18nF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-40_18nF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC183K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-40" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-41_22nF
+#
+DEF CAP-1005-41_22nF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-41_22nF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC223K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-41" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-42_27nF
+#
+DEF CAP-1005-42_27nF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-42_27nF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC273K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-42" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-43_33nF
+#
+DEF CAP-1005-43_33nF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-43_33nF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC333K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-43" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-44_39nF
+#
+DEF CAP-1005-44_39nF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-44_39nF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC393K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-44" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-45_47nF
+#
+DEF CAP-1005-45_47nF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-45_47nF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC473K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-45" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-46_56nF
+#
+DEF CAP-1005-46_56nF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-46_56nF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC563K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-46" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-47_68nF
+#
+DEF CAP-1005-47_68nF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-47_68nF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC683K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-47" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-48_82nF
+#
+DEF CAP-1005-48_82nF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-48_82nF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC823K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-48" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-49_100nF
+#
+DEF CAP-1005-49_100nF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-49_100nF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC104K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-49" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-50_120nF
+#
+DEF CAP-1005-50_120nF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-50_120nF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC124K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-50" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-51_150nF
+#
+DEF CAP-1005-51_150nF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-51_150nF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC154K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-51" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-52_180nF
+#
+DEF CAP-1005-52_180nF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-52_180nF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC184K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-52" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-53_220nF
+#
+DEF CAP-1005-53_220nF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-53_220nF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC224K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-53" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-54_270nF
+#
+DEF CAP-1005-54_270nF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-54_270nF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC274K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-54" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-55_330nF
+#
+DEF CAP-1005-55_330nF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-55_330nF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC334K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-55" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-56_390nF
+#
+DEF CAP-1005-56_390nF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-56_390nF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC394K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-56" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-57_470nF
+#
+DEF CAP-1005-57_470nF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-57_470nF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC474K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-57" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-58_560nF
+#
+DEF CAP-1005-58_560nF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-58_560nF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC564K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-58" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-59_680nF
+#
+DEF CAP-1005-59_680nF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-59_680nF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC684K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-59" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+# CAP-1005-60_1.0uF
+#
+DEF CAP-1005-60_1.0uF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1005-60_1.0uF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://www.kemet.com/Lists/ProductCatalog/Attachments/53/KEM_C1002_X7R_SMD.pdf" 0 500 40 H I C CNN 
+F4 "Kemet" 0 400 40 H I C CNN "MFG"
+F5 "C0805_MediumDensity_MediumDensityC105K5RACTU" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1005-60" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

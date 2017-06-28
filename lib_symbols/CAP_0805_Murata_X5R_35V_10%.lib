@@ -1,0 +1,22 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# CAP-1010-1_10uF
+#
+DEF CAP-1010-1_10uF C 0 0 N N 1 F N
+F0 "C" 0 125 50 H V C CNB 
+F1 "CAP-1010-1_10uF" 0 -125 40 H V C CNN 
+F2 "CBC_Passive:C0805_MediumDensity" 0 600 40 H I C CNN 
+F3 "http://search.murata.co.jp/Ceramy/image/img/A01X/partnumbering_e_01.pdf" 0 500 40 H I C CNN 
+F4 "Murata" 0 400 40 H I C CNN "MFG"
+F5 "GRM21BR6YA106KE43L" 0 300 40 H I C CNN "MPN"
+F6 "CAP-1010-1" 0 200 40 H I C CNN "HPN"
+DRAW
+P 3 0 1 20 -25 75 -25 -75 -25 -75 N
+P 3 0 1 20 25 75 25 -75 25 -75 N
+X ~ 1 -150 0 125 R 60 60 0 1 P
+X ~ 2 150 0 125 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

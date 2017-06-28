@@ -1,0 +1,364 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# FuseHolder_Blade_3557_Black
+#
+DEF FuseHolder_Blade_3557_Black XF 0 40 Y Y 1 F N
+F0 "XF" 200 250 60 H V L CNN
+F1 "FuseHolder_Blade_3557_Black" 200 150 60 H V L CNN
+F2 "CBC_Connectors:Fuse_Holder_Keystone_3557" 50 750 50 H I L CNN
+F3 "http://www.keyelco.com/product.cfm/product_id/296" 50 650 50 H I L CNN
+F4 "Keystone Electronics" 50 550 50 H I L CNN "MFG"
+F5 "3557-2" 50 450 50 H I L CNN "MPN"
+F6 "CON-1008-0" 50 350 50 H I L CNN "HPN"
+DRAW
+S 200 100 600 -100 1 1 12 N
+X 1 1 0 0 200 R 50 50 1 1 P
+X 2 2 800 0 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# FuseHolder_Blade_3557_Blue
+#
+DEF FuseHolder_Blade_3557_Blue XF 0 40 Y Y 1 F N
+F0 "XF" 200 250 60 H V L CNN
+F1 "FuseHolder_Blade_3557_Blue" 200 150 60 H V L CNN
+F2 "CBC_Connectors:Fuse_Holder_Keystone_3557" 50 750 50 H I L CNN
+F3 "http://www.keyelco.com/product.cfm/product_id/14225" 50 650 50 H I L CNN
+F4 "Keystone Electronics" 50 550 50 H I L CNN "MFG"
+F5 "3557-15" 50 450 50 H I L CNN "MPN"
+F6 "CON-1008-2" 50 350 50 H I L CNN "HPN"
+DRAW
+S 200 100 600 -100 1 1 12 N
+X 1 1 0 0 200 R 50 50 1 1 P
+X 2 2 800 0 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# FuseHolder_Blade_3557_Red
+#
+DEF FuseHolder_Blade_3557_Red XF 0 40 Y Y 1 F N
+F0 "XF" 200 250 60 H V L CNN
+F1 "FuseHolder_Blade_3557_Red" 200 150 60 H V L CNN
+F2 "CBC_Connectors:Fuse_Holder_Keystone_3557" 50 750 50 H I L CNN
+F3 "http://www.keyelco.com/product.cfm/product_id/14224" 50 650 50 H I L CNN
+F4 "Keystone Electronics" 50 550 50 H I L CNN "MFG"
+F5 "3557-10" 50 450 50 H I L CNN "MPN"
+F6 "CON-1008-1" 50 350 50 H I L CNN "HPN"
+DRAW
+S 200 100 600 -100 1 1 12 N
+X 1 1 0 0 200 R 50 50 1 1 P
+X 2 2 800 0 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# FuseHolder_Blade_3557_Yellow
+#
+DEF FuseHolder_Blade_3557_Yellow XF 0 40 Y Y 1 F N
+F0 "XF" 200 250 60 H V L CNN
+F1 "FuseHolder_Blade_3557_Yellow" 200 150 60 H V L CNN
+F2 "CBC_Connectors:Fuse_Holder_Keystone_3557" 50 750 50 H I L CNN
+F3 "http://www.keyelco.com/product.cfm/product_id/14226" 50 650 50 H I L CNN
+F4 "Keystone Electronics" 50 550 50 H I L CNN "MFG"
+F5 "3557-20" 50 450 50 H I L CNN "MPN"
+F6 "CON-1008-3" 50 350 50 H I L CNN "HPN"
+DRAW
+S 200 100 600 -100 1 1 12 N
+X 1 1 0 0 200 R 50 50 1 1 P
+X 2 2 800 0 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# FuseHolder_MiniBlade_3568
+#
+DEF FuseHolder_MiniBlade_3568 XF 0 40 Y Y 1 F N
+F0 "XF" 200 250 60 H V L CNN
+F1 "FuseHolder_MiniBlade_3568" 200 150 60 H V L CNN
+F2 "CBC_Connectors:Fuse_Holder_Keystone_3568" 50 750 50 H I L CNN
+F3 "http://www.keyelco.com/product.cfm/product_id/306" 50 650 50 H I L CNN
+F4 "Keystone Electronics" 50 550 50 H I L CNN "MFG"
+F5 "3568" 50 450 50 H I L CNN "MPN"
+F6 "CON-1007-0" 50 350 50 H I L CNN "HPN"
+DRAW
+S 200 100 600 -100 1 1 12 N
+X 1 1 0 0 200 R 50 50 1 1 P
+X 2 2 800 0 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# FuseHolder_MiniBlade_3568_Black
+#
+DEF FuseHolder_MiniBlade_3568_Black XF 0 40 Y Y 1 F N
+F0 "XF" 200 250 60 H V L CNN
+F1 "FuseHolder_MiniBlade_3568_Black" 200 150 60 H V L CNN
+F2 "CBC_Connectors:Fuse_Holder_Keystone_3568" 50 750 50 H I L CNN
+F3 "http://www.keyelco.com/product.cfm/product_id/306" 50 650 50 H I L CNN
+F4 "Keystone Electronics" 50 550 50 H I L CNN "MFG"
+F5 "3568" 50 450 50 H I L CNN "MPN"
+F6 "CON-1007-0" 50 350 50 H I L CNN "HPN"
+DRAW
+S 200 100 600 -100 1 1 12 N
+X 1 1 0 0 200 R 50 50 1 1 P
+X 2 2 800 0 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# FuseHolder_MiniBlade_3568_Blue
+#
+DEF FuseHolder_MiniBlade_3568_Blue XF 0 40 Y Y 1 F N
+F0 "XF" 200 250 60 H V L CNN
+F1 "FuseHolder_MiniBlade_3568_Blue" 200 150 60 H V L CNN
+F2 "CBC_Connectors:Fuse_Holder_Keystone_3568" 50 750 50 H I L CNN
+F3 "http://www.keyelco.com/product.cfm/product_id/14234" 50 650 50 H I L CNN
+F4 "Keystone Electronics" 50 550 50 H I L CNN "MFG"
+F5 "3568-15" 50 450 50 H I L CNN "MPN"
+F6 "CON-1007-2" 50 350 50 H I L CNN "HPN"
+DRAW
+S 200 100 600 -100 1 1 12 N
+X 1 1 0 0 200 R 50 50 1 1 P
+X 2 2 800 0 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# FuseHolder_MiniBlade_3568_Red
+#
+DEF FuseHolder_MiniBlade_3568_Red XF 0 40 Y Y 1 F N
+F0 "XF" 200 250 60 H V L CNN
+F1 "FuseHolder_MiniBlade_3568_Red" 200 150 60 H V L CNN
+F2 "CBC_Connectors:Fuse_Holder_Keystone_3568" 50 750 50 H I L CNN
+F3 "http://www.keyelco.com/product.cfm/product_id/14233" 50 650 50 H I L CNN
+F4 "Keystone Electronics" 50 550 50 H I L CNN "MFG"
+F5 "3568-10" 50 450 50 H I L CNN "MPN"
+F6 "CON-1007-1" 50 350 50 H I L CNN "HPN"
+DRAW
+S 200 100 600 -100 1 1 12 N
+X 1 1 0 0 200 R 50 50 1 1 P
+X 2 2 800 0 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# FuseHolder_MiniBlade_3568_Yellow
+#
+DEF FuseHolder_MiniBlade_3568_Yellow XF 0 40 Y Y 1 F N
+F0 "XF" 200 250 60 H V L CNN
+F1 "FuseHolder_MiniBlade_3568_Yellow" 200 150 60 H V L CNN
+F2 "CBC_Connectors:Fuse_Holder_Keystone_3568" 50 750 50 H I L CNN
+F3 "http://www.keyelco.com/product.cfm/product_id/14235" 50 650 50 H I L CNN
+F4 "Keystone Electronics" 50 550 50 H I L CNN "MFG"
+F5 "3568-20" 50 450 50 H I L CNN "MPN"
+F6 "CON-1007-3" 50 350 50 H I L CNN "HPN"
+DRAW
+S 200 100 600 -100 1 1 12 N
+X 1 1 0 0 200 R 50 50 1 1 P
+X 2 2 800 0 200 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Pin_Header_Straight_2.54mm_1x05
+#
+DEF Pin_Header_Straight_2.54mm_1x05 J 0 40 Y Y 1 F N
+F0 "J" 200 250 60 H V L CNN
+F1 "Pin_Header_Straight_2.54mm_1x05" 200 150 60 H V L CNN
+F2 "CBC_Connectors:Pin_Header_Straight_1x05_Pitch2.54mm" 50 750 50 H I L CNN
+F3 "https://drawings-pdf.s3.amazonaws.com/11635.pdf" 50 650 50 H I L CNN
+F4 "CON-1006-05" 50 350 50 H I L CNN "HPN"
+F5 "Sullins" 50 550 50 H I L CNN "MFG"
+F6 "PRPC005SAAN-RC" 50 450 50 H I L CNN "MPN"
+DRAW
+S 200 100 400 -500 1 1 12 N
+X 1 1 0 0 200 R 50 50 1 1 P
+X 2 2 0 -100 200 R 50 50 1 1 P
+X 3 3 0 -200 200 R 50 50 1 1 P
+X 4 4 0 -300 200 R 50 50 1 1 P
+X 5 5 0 -400 200 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Pin_Header_Straight_2.54mm_1x06
+#
+DEF Pin_Header_Straight_2.54mm_1x06 J 0 40 Y Y 1 F N
+F0 "J" 200 250 60 H V L CNN
+F1 "Pin_Header_Straight_2.54mm_1x06" 200 150 60 H V L CNN
+F2 "CBC_Connectors:Pin_Header_Straight_1x06_Pitch2.54mm" 50 750 50 H I L CNN
+F3 "https://drawings-pdf.s3.amazonaws.com/11635.pdf" 50 650 50 H I L CNN
+F4 "Sullins" 50 550 50 H I L CNN "MFG"
+F5 "CON-1006-06" 50 350 50 H I L CNN "HPN"
+F6 "PRPC006SAAN-RC" 50 450 50 H I L CNN "MPN"
+DRAW
+S 200 100 400 -600 1 1 12 N
+X 1 1 0 0 200 R 50 50 1 1 P
+X 2 2 0 -100 200 R 50 50 1 1 P
+X 3 3 0 -200 200 R 50 50 1 1 P
+X 4 4 0 -300 200 R 50 50 1 1 P
+X 5 5 0 -400 200 R 50 50 1 1 P
+X 6 6 0 -500 200 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Recep_MillMax_0291-0-15-15-16-27
+#
+DEF Recep_MillMax_0291-0-15-15-16-27 J 0 40 Y Y 1 L N
+F0 "J" 200 250 60 H V L CNN
+F1 "Recep_MillMax_0291-0-15-15-16-27" 200 150 60 H V L CNN
+F2 "CBC_Connectors:Mill-Max_0291" 450 50 40 H I L CNN
+F3 "www.mill-max.com/products/rec/0291" 450 0 40 H I L CNN
+F4 "Mill-Max" 450 -50 40 H I L CNN "MFG"
+F5 "0291-0-15-15-16-27-10-0" 450 -100 40 H I L CNN "MPN"
+F6 "CON-1002-01" 450 -150 40 H I L CNN "HPN"
+DRAW
+S 200 100 400 -100 1 1 12 N
+X 1 1 0 0 200 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Recep_MillMax_0531-0-15-15-31-27
+#
+DEF Recep_MillMax_0531-0-15-15-31-27 J 0 40 Y Y 1 L N
+F0 "J" 200 250 60 H V L CNN
+F1 "Recep_MillMax_0531-0-15-15-31-27" 200 150 60 H V L CNN
+F2 "No footprint" 450 50 40 H I L CNN
+F3 "www.mill-max.com/products/rec/0531" 450 0 40 H I L CNN
+F4 "Mill-Max" 450 -50 40 H I L CNN "MFG"
+F5 "0531-0-15-15-31-27-10-0" 450 -100 40 H I L CNN "MPN"
+F6 "CON-1003-01" 450 -150 40 H I L CNN "HPN"
+DRAW
+S 200 100 400 -100 1 1 12 N
+X 1 1 0 0 200 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Recep_MillMax_4280-0-43-80-16-27
+#
+DEF Recep_MillMax_4280-0-43-80-16-27 J 0 40 Y Y 1 L N
+F0 "J" 200 250 60 H V L CNN
+F1 "Recep_MillMax_4280-0-43-80-16-27" 200 150 60 H V L CNN
+F2 "CBC_Connectors:Mill-Max_4280" 450 50 40 H I L CNN
+F3 "www.mill-max.com/products/rec/4280" 450 0 40 H I L CNN
+F4 "Mill-Max" 450 -50 40 H I L CNN "MFG"
+F5 "4280-0-43-80-16-27-10-0" 450 -100 40 H I L CNN "MPN"
+F6 "CON-1004-01" 450 -150 40 H I L CNN "HPN"
+DRAW
+S 200 100 400 -100 1 1 12 N
+X 1 1 0 0 200 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Recep_MillMax_4280-0-67-80-16-27
+#
+DEF Recep_MillMax_4280-0-67-80-16-27 J 0 40 Y Y 1 L N
+F0 "J" 200 250 60 H V L CNN
+F1 "Recep_MillMax_4280-0-67-80-16-27" 200 150 60 H V L CNN
+F2 "CBC_Connectors:Mill-Max_4280" 450 50 40 H I L CNN
+F3 "www.mill-max.com/products/rec/4280" 450 0 40 H I L CNN
+F4 "Mill-Max" 450 -50 40 H I L CNN "MFG"
+F5 "4280-0-67-80-16-27-10-0" 450 -100 40 H I L CNN "MPN"
+F6 "CON-1004-02" 450 -150 40 H I L CNN "HPN"
+DRAW
+S 200 100 400 -100 1 1 12 N
+X 1 1 0 0 200 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Socket_MillMax_834-43-016
+#
+DEF Socket_MillMax_834-43-016 J 0 40 Y Y 1 L N
+F0 "J" 200 250 60 H V L CNN
+F1 "Socket_MillMax_834-43-016" 200 150 60 H V L CNN
+F2 "No footprint" 450 50 40 H I L CNN
+F3 "www.mill-max.com/products/socket/834-XX-XXX-10-001000" 450 0 40 H I L CNN
+F4 "Mill-Max" 450 -50 40 H I L CNN "MFG"
+F5 "834-43-016-10-001000" 450 -100 40 H I L CNN "MPN"
+F6 "CON-1005-01" 450 -150 40 H I L CNN "HPN"
+DRAW
+S 200 100 400 -100 1 1 12 N
+X 1 1 0 0 200 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Socket_MillMax_834-43-064
+#
+DEF Socket_MillMax_834-43-064 J 0 40 Y Y 1 L N
+F0 "J" 200 250 60 H V L CNN
+F1 "Socket_MillMax_834-43-064" 200 150 60 H V L CNN
+F2 "No footprint" 450 50 40 H I L CNN
+F3 "www.mill-max.com/products/socket/834-XX-XXX-10-001000" 450 0 40 H I L CNN
+F4 "Mill-Max" 450 -50 40 H I L CNN "MFG"
+F5 "834-43-064-10-001000" 450 -100 40 H I L CNN "MPN"
+F6 "CON-1005-02" 450 -150 40 H I L CNN "HPN"
+DRAW
+S 200 100 400 -100 1 1 12 N
+X 1 1 0 0 200 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# TB_PhxContact_MKDS-1.5-2-5.08
+#
+DEF TB_PhxContact_MKDS-1.5-2-5.08 J 0 40 Y Y 1 F N
+F0 "J" 200 250 60 H V L CNN
+F1 "TB_PhxContact_MKDS-1.5-2-5.08" 200 150 60 H V L CNN
+F2 "CBC_Connectors:TB_PhxCon_MKDS-1.5-2-5.08" 50 750 50 H I L CNN
+F3 "www.phoenixcontact.com/online/portal/us?uri=pxc-oc-itemdetail:pid=1715721&library=usen&tab=1" 50 650 50 H I L CNN
+F4 "CON-1001-01" 50 350 50 H I L CNN "HPN"
+F5 "Phoenix Contact" 50 550 50 H I L CNN "MFG"
+F6 "1715721" 50 450 50 H I L CNN "MPN"
+DRAW
+S 200 100 400 -200 1 1 12 N
+X 1 1 0 0 200 R 50 50 1 1 P
+X 2 2 0 -100 200 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# TB_PhxContact_MKDS-1.5-3-5.08
+#
+DEF TB_PhxContact_MKDS-1.5-3-5.08 J 0 40 Y Y 1 F N
+F0 "J" 200 250 60 H V L CNN
+F1 "TB_PhxContact_MKDS-1.5-3-5.08" 200 150 60 H V L CNN
+F2 "CBC_Connectors:TB_PhxCon_MKDS-1.5-3-5.08" 50 750 50 H I L CNN
+F3 "www.phoenixcontact.com/online/portal/us?uri=pxc-oc-itemdetail:pid=1715734&library=usen&tab=1" 50 650 50 H I L CNN
+F4 "CON-1001-02" 50 350 50 H I L CNN "HPN"
+F5 "Phoenix Contact" 50 550 50 H I L CNN "MFG"
+F6 "1715734" 50 450 50 H I L CNN "MPN"
+DRAW
+S 200 100 400 -300 1 1 12 N
+X 1 1 0 0 200 R 50 50 1 1 P
+X 2 2 0 -100 200 R 50 50 1 1 P
+X 3 3 0 -200 200 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# TB_PhxContact_MKDSN-2.5-2-5.08
+#
+DEF TB_PhxContact_MKDSN-2.5-2-5.08 J 0 40 Y Y 1 F N
+F0 "J" 200 250 60 H V L CNN
+F1 "TB_PhxContact_MKDSN-2.5-2-5.08" 200 150 60 H V L CNN
+F2 "CBC_Connectors:TB_PhxCon_MKDSN-2.5-2-5.08" 50 750 50 H I L CNN
+F3 "www.phoenixcontact.com/online/portal/us?uri=pxc-oc-itemdetail:pid=1888687&library=usen&tab=1" 50 650 50 H I L CNN
+F4 "CON-1000-01" 50 350 50 H I L CNN "HPN"
+F5 "Phoenix Contact" 50 550 50 H I L CNN "MFG"
+F6 "1888687" 50 450 50 H I L CNN "MPN"
+DRAW
+S 200 100 400 -200 1 1 12 N
+X 1 1 0 0 200 R 50 50 1 1 P
+X 2 2 0 -100 200 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# TB_PhxContact_MKDSN-2.5-3-5.08
+#
+DEF TB_PhxContact_MKDSN-2.5-3-5.08 J 0 40 Y Y 1 F N
+F0 "J" 200 250 60 H V L CNN
+F1 "TB_PhxContact_MKDSN-2.5-3-5.08" 200 150 60 H V L CNN
+F2 "CBC_Connectors:TB_PhxCon_MKDSN-2.5-3-5.08" 50 750 50 H I L CNN
+F3 "www.phoenixcontact.com/online/portal/us?uri=pxc-oc-itemdetail:pid=1888690&library=usen&pcck=P-11-01-05&tab=1" 50 650 50 H I L CNN
+F4 "CON-1000-02" 50 350 50 H I L CNN "HPN"
+F5 "Phoenix Contact" 50 550 50 H I L CNN "MFG"
+F6 "1888690" 50 450 50 H I L CNN "MPN"
+DRAW
+S 200 100 400 -300 1 1 12 N
+X 1 1 0 0 200 R 50 50 1 1 P
+X 2 2 0 -100 200 R 50 50 1 1 P
+X 3 3 0 -200 200 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

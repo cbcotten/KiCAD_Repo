@@ -1,0 +1,65 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FuseHolder_Blade_3557_Black
+D Fuse Holder, Blade, Thru hole, Black Body
+$ENDCMP
+#
+$CMP FuseHolder_Blade_3557_Blue
+D Fuse Holder, Blade, Thru hole, Blue Body
+$ENDCMP
+#
+$CMP FuseHolder_Blade_3557_Red
+D Fuse Holder, Blade, Thru hole, Red Body
+$ENDCMP
+#
+$CMP FuseHolder_Blade_3557_Yellow
+D Fuse Holder, Blade, Thru hole, Yellow Body
+$ENDCMP
+#
+$CMP FuseHolder_MiniBlade_3568
+D Fuse Holder, Mini Blade, Thru hole
+$ENDCMP
+#
+$CMP FuseHolder_MiniBlade_3568_Black
+D Fuse Holder, Mini Blade, Thru hole
+$ENDCMP
+#
+$CMP FuseHolder_MiniBlade_3568_Blue
+D Fuse Holder, Mini Blade, Thru hole, Blue Body
+$ENDCMP
+#
+$CMP FuseHolder_MiniBlade_3568_Red
+D Fuse Holder, Mini Blade, Thru hole, Red Body
+$ENDCMP
+#
+$CMP FuseHolder_MiniBlade_3568_Yellow
+D Fuse Holder, Mini Blade, Thru hole, Yellow Body
+$ENDCMP
+#
+$CMP Pin_Header_Straight_2.54mm_1x05
+D Generic Header, 2.54mm pitch, 1x05
+K header
+$ENDCMP
+#
+$CMP Pin_Header_Straight_2.54mm_1x06
+D Generic Header, 2.54mm Pitch, 1x06
+K header
+$ENDCMP
+#
+$CMP TB_PhxContact_MKDS-1.5-2-5.08
+D PCB Term Block, 5.08mm pitch, 2 pos, MKDS-1.5
+$ENDCMP
+#
+$CMP TB_PhxContact_MKDS-1.5-3-5.08
+D PCB Term Block, 5.08mm pitch, 3 pos, MKDS-1.5
+$ENDCMP
+#
+$CMP TB_PhxContact_MKDSN-2.5-2-5.08
+D PCB Term Block, 5.08mm pitch, 2 pos, MKDSN-2.5
+$ENDCMP
+#
+$CMP TB_PhxContact_MKDSN-2.5-3-5.08
+D PCB Term Block, 5.08mm pitch, 3 pos, MKDSN-2.5
+$ENDCMP
+#
+#End Doc Library

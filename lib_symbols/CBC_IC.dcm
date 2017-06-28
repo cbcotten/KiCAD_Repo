@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX14780E_SOIC8
+D RS485 Tranceiver, 500 kbps, SOIC-8
+K MAX14780E, Maxim Integrated, RS485, Tranceiver, RS422
+$ENDCMP
+#
+$CMP SN65HVD888D
+D RS485 Tranceiver, 250 kbps, Half Duplex, SOIC8
+K TI, SN65HVD888, RS485, Tranceiver, Half Duplex
+$ENDCMP
+#
+$CMP TI_ISOW7841
+D Digial Isolator 4 channel, 100Mbps, 16SOIC
+K digital isolator, ISOW7841
+$ENDCMP
+#
+#End Doc Library

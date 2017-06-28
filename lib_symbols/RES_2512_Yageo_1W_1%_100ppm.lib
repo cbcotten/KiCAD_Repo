@@ -1,0 +1,21 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# RES-1006-001_0.100Ohm
+#
+DEF RES-1006-001_0.100Ohm R 0 0 N N 1 F N
+F0 "R" 0 100 50 H V C CNB
+F1 "RES-1006-001_0.100Ohm" 0 -100 40 H V C CNN
+F2 "CBC_Passive:R2512_Pad2.1x3.5_Pitch3.25" 0 600 40 H I C CNN
+F3 "http://www.yageo.com/documents/recent/PYu-PT-Group_521_RoHS_L-1.pdf" 0 500 40 H I C CNN
+F4 "Yageo" 0 400 40 H I C CNN "MFG"
+F5 "PT2512FK-070R1L" 0 300 40 H I C CNN "MPN"
+F6 "RES-1006-001" 0 200 40 H I C CNN "HPN"
+DRAW
+P 8 0 1 0 -100 0 -83 30 -50 -30 -17 30 17 -30 50 30 83 -30 100 0 N
+X ~ 1 -150 0 50 R 60 60 0 1 P
+X ~ 2 150 0 50 L 60 60 0 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
