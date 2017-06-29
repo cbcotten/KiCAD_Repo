@@ -99,4 +99,14 @@ $CMP MOSFET_STP40NF10L
 D Power MOSFET, Logic Gate, 100V, 40A, 36mOhm
 $ENDCMP
 #
+$CMP RTD-0805_F0.3tol_100R
+D TEMP SENSOR, Platinum RTD, SMD 0805, 100 Ohm, F0.3 TOL
+K PT100, RTD, temperature sensor, platinum
+$ENDCMP
+#
+$CMP RTD_Temp_Sensor
+D RTD TEMP SENSOR, Schematic symbol only
+K RTD TEMP SENSOR, PT100, PT1000
+$ENDCMP
+#
 #End Doc Library
