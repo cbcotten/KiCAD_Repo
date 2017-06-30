@@ -1,5 +1,13 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP DC_Supply_24V
+D 24V Power Supply Generic
+$ENDCMP
+#
+$CMP DC_Supply_48V
+D 48V Power Supply Generic
+$ENDCMP
+#
 $CMP FuseHolder_Blade_3557_Black
 D Fuse Holder, Blade, Thru hole, Black Body
 $ENDCMP
@@ -34,6 +42,34 @@ $ENDCMP
 #
 $CMP FuseHolder_MiniBlade_3568_Yellow
 D Fuse Holder, Mini Blade, Thru hole, Yellow Body
+$ENDCMP
+#
+$CMP PTSM_Plug_1x2
+D PhxContact PTSM Plug 1x2 White
+$ENDCMP
+#
+$CMP PTSM_Plug_1x3
+D PhxContact PTSM Plug 1x3 White
+$ENDCMP
+#
+$CMP PTSM_Plug_1x4
+D PhxContact PTSM Plug 1x4 White
+$ENDCMP
+#
+$CMP PTSM_Plug_1x5
+D PhxContact PTSM Plug 1x5 White
+$ENDCMP
+#
+$CMP PTSM_Plug_1x6
+D PhxContact PTSM Plug 1x6 White
+$ENDCMP
+#
+$CMP PTSM_Plug_1x7
+D PhxContact PTSM Plug 1x7 White
+$ENDCMP
+#
+$CMP PTSM_Plug_1x8
+D PhxContact PTSM Plug 1x8 White
 $ENDCMP
 #
 $CMP Pin_Header_Straight_2.54mm_1x05
