@@ -1,11 +1,19 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP DC_Supply_12V
+D 12V Power Supply Generic
+$ENDCMP
+#
 $CMP DC_Supply_24V
 D 24V Power Supply Generic
 $ENDCMP
 #
 $CMP DC_Supply_48V
 D 48V Power Supply Generic
+$ENDCMP
+#
+$CMP DC_Supply_5V
+D 5V Power Supply Generic
 $ENDCMP
 #
 $CMP FuseHolder_Blade_3557_Black
@@ -80,6 +88,10 @@ $ENDCMP
 $CMP Pin_Header_Straight_2.54mm_1x06
 D Generic Header, 2.54mm Pitch, 1x06
 K header
+$ENDCMP
+#
+$CMP RTA_GATEWAY_PORT_0
+D RTA GATEWAY PORT 0 CONNECTOR
 $ENDCMP
 #
 $CMP TB_PhxContact_MKDS-1.5-2-5.08
